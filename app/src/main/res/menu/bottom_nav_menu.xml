@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/baseline_home_filled_24"
+        android:iconTint="@color/purple"
+        android:title="Home" />
+    <item
+        android:id="@+id/favsFragment"
+        android:icon="@drawable/baseline_menu_book_24"
+        android:iconTint="@color/purple"
+        android:title="Favoritos" />
+    <item
+        android:id="@+id/adoptionFragment"
+        android:icon="@drawable/baseline_chat_bubble_outline_24"
+        android:iconTint="@color/purple"
+        android:title="Adopcion" />
+    <item
+        android:id="@+id/postFragment"
+        android:icon="@drawable/sharp_person_24"
+        android:iconTint="@color/purple"
+        android:title="Publicacion" />
+</menu>
